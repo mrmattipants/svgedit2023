@@ -14,7 +14,10 @@ export default {
     music: 'Музика',
     misc: 'Різне',
     raphael_1: 'raphaeljs.com набір 1',
-    raphael_2: 'raphaeljs.com набір 2'
+    raphael_2: 'raphaeljs.com набір 2',
+    raphael_3: 'raphaeljs.com набір 3',
+    raphael_4: 'raphaeljs.com набір 4',
+    raphael_5: 'raphaeljs.com набір 5'
   },
   buttons: [
     {
