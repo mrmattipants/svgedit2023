@@ -14,7 +14,10 @@ export default {
     music: '音乐',
     misc: '其他',
     raphael_1: 'raphaeljs.com 集合 1',
-    raphael_2: 'raphaeljs.com 集合 2'
+    raphael_2: 'raphaeljs.com 集合 2',
+    raphael_3: 'raphaeljs.com 集合 3',
+    raphael_4: 'raphaeljs.com 集合 4',
+    raphael_5: 'raphaeljs.com 集合 5'
   },
   buttons: [
     {
